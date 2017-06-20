@@ -1,0 +1,9 @@
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\bin\Debug\netcoreapp1.1\AspNetCoreBlog.deps.json
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\bin\Debug\netcoreapp1.1\AspNetCoreBlog.runtimeconfig.json
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\bin\Debug\netcoreapp1.1\AspNetCoreBlog.runtimeconfig.dev.json
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\bin\Debug\netcoreapp1.1\AspNetCoreBlog.dll
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\bin\Debug\netcoreapp1.1\AspNetCoreBlog.pdb
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\obj\Debug\netcoreapp1.1\AspNetCoreBlog.csprojResolveAssemblyReference.cache
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\obj\Debug\netcoreapp1.1\AspNetCoreBlog.AssemblyInfo.cs
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\obj\Debug\netcoreapp1.1\AspNetCoreBlog.dll
+C:\Users\ecrichlo\Documents\Code\_PersonalProjects\AspNetCoreBlog\AspNetCoreBlog\obj\Debug\netcoreapp1.1\AspNetCoreBlog.pdb
